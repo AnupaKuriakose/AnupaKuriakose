@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a passionate Front-End Developer with a focus on building robust, scalable web applications using **Angular** and modern **JavaScript (ES6+)**. I enjoy turning complex problems into intuitive, high-performance user interfaces.<br><br>- 🔭 Currently working on: Enterprise Angular Applications<br>- 🌱 Learning: React<br>- ⚡ Skills: Angular (2+), TypeScript, RxJS, JavaScript, HTML5/CSS3, Git, NGRX, Angular Material,<br>- 📫 How to reach me: https://www.linkedin.com/in/anupa-kuriakose-8b99441b/
+<br>I am a passionate Front-End Developer with a focus on building robust, scalable web applications using **Angular** and modern **JavaScript (ES6+)**. I enjoy turning complex problems into intuitive, high-performance user interfaces.<br><br>- 🔭 Currently working on: Enterprise Angular Applications<br>- 🌱 Learning: AWS <br>- ⚡ Skills: Angular (2+), React, TypeScript, RxJS, JavaScript, HTML5/CSS3, Git, NGRX, Angular Material,<br>- 📫 How to reach me: https://www.linkedin.com/in/anupa-kuriakose-8b99441b/
 
 
 # 💻 Tech Stack:
